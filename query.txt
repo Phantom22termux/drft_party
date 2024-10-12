@@ -1,0 +1,1 @@
+query_id=AAHcXIAjAwAAANxcgCPKYSF3&user=%7B%22id%22%3A7038065884%2C%22first_name%22%3A%221%20%F0%9F%90%88%E2%80%8D%E2%AC%9B%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Wtf_idk_69%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1728707715&hash=b237d04c215483f1249461086c7ecc859f12158d50658a1ccf3732b341d36468
